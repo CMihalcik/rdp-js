@@ -6,8 +6,4 @@ authors:
 resources:
   - https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/jquery.jqplot.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/jquery.jqplot.min.css
-normalize_css: no
-wrap: b
-panel_js: 1
-panel_css: 1
  ...
