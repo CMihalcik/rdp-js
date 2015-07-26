@@ -1,3 +1,4 @@
+---
 name: Ramer-Douglas-Peuker
 description: Javascript Implementation Of The Ramer-Douglas-Peuker Algorithm
 authors:
@@ -9,3 +10,4 @@ normalize_css: no
 wrap: b
 panel_js: 1
 panel_css: 1
+---
