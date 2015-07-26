@@ -1,0 +1,11 @@
+name: Ramer-Douglas-Peuker
+description: Javascript Implementation Of The Ramer-Douglas-Peuker Algorithm
+authors:
+  - Chris Mihalcik
+resources:
+  - https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/jquery.jqplot.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/jquery.jqplot.min.css
+normalize_css: no
+wrap: b
+panel_js: 1
+panel_css: 1
